@@ -1,5 +1,5 @@
 # Time-Series-Analysis
-Analaysis of Time Series data using AR, MA, ARIMA models.
+Analysis of Time Series data using AR, MA, ARIMA models.
 
 1. Loading time series data
 2. Analyse the patterns(year, month, quarter) in the data
